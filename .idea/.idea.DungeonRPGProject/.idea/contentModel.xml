@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\User\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\User\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_DungeonRPGProject.1092814610.00" t="ExcludeRecursive" />
+    <e p="C:\Users\User\Desktop\Dungeon\BACKUP\DungeonRPGProject" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets\Scripts" t="Include">
+        <e p="Camera" t="Include">
+          <e p="CameraFollow.cs" t="Include" />
+        </e>
+        <e p="Items" t="Include">
+          <e p="chestOpener.cs" t="Include" />
+          <e p="Item.cs" t="Include" />
+          <e p="Weapon" t="Include">
+            <e p="Weapon.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Magic" t="Include">
+          <e p="Magic.cs" t="Include" />
+        </e>
+        <e p="Other" t="Include">
+          <e p="ResoursesManagerExtension.cs" t="Include" />
+        </e>
+        <e p="Player" t="Include">
+          <e p="JoyStickController.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+          <e p="PlayerJSController.cs" t="Include" />
+        </e>
+        <e p="VirtualJoystick.cs" t="Include" />
+        <e p="VisualScr.cs" t="Include" />
+      </e>
+      <e p="DungeonRPGProject.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
